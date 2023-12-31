@@ -2,7 +2,7 @@
 ## Dataset Details
 The cardiovascular disease risk prediction dataset derived from the CDC's (Centers for Disease Control and Prevention) Behavioral Risk Factor Surveillance System (BRFSS) in 2021 encompasses various attributes related to health indicators and behaviors. This dataset was collected from Kaggle. This cardiovascular disease risk prediction dataset contains 308854 samples. Additionally, it contains 19 attributes including the target attribute. Also here, 7 are numerical and 12 are categorical attributes.
 
-Dataset Link: https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset
+**Dataset Link:** https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset
 
 ## Project Overview
 
